@@ -1,6 +1,6 @@
 - 👋 Hi, Sid this side
-- 👀 I’m interested in :: Cybersecurity 
-- 🌱 I’m currently learning RUST and angular 
+<!-- - 👀 I’m interested in :: Cybersecurity 
+- 🌱 I’m currently learning RUST and angular  -->
 - 📫 How to reach me :: email --> siddharth1998@gmail.com
 
 <h1>Practise Codes</h1>
