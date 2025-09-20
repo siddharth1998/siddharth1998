@@ -1,2 +1,7 @@
 - 👋 Hi, Sid this side
 - 📫 How to reach me :: email --> siddharth1998@gmail.com
+- You want to contribute regarding a project, ping me.
+- Want help in cloud architecture, ping me.
+- Just want to discuss some idea, ping me.
+- Want to debug some problem in your code, ping me.
+- Want to share your knowledge regarding tech, ping me. 
